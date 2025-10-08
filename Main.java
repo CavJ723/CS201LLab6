@@ -1,7 +1,7 @@
 import java.util.*;
 
-//NAME: 
-//LAB PERIOD:
+//NAME: Judi Cavender
+//LAB PERIOD: 7:00 PM
 class Main {
     public static void main(String[] args) {
         //create an ArrayList of <Show> type

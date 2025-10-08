@@ -1,6 +1,28 @@
 Top 10 Longest Running TV Shows:
 
+Title                                    Year   Rating     Seasons  Score  Genres
+Survivor                                 2000   TV-PG      42.0     7.4    reality
+Wheel of Fortune                         1983   TV-G       39.0     6.7    family
+The Challenge                            1998   TV-14      37.0     7.8    reality, comedy, drama, scifi
+Top Gear                                 2002   TV-PG      32.0     8.7    comedy, reality, european, music
+Power Rangers                            1993   TV-Y7      29.0     6.5    action, scifi, fantasy, family
+Pokémon                                 1997   TV-Y7      25.0     7.4    action, scifi, animation, comedy, fantasy, family
+Thomas & Friends                         1984   TV-Y       24.0     6.5    animation, family, comedy, fantasy, drama, action, music
+America's Next Top Model                 2003   TV-14      24.0     5.6    reality
+One Piece                                1999   TV-14      21.0     8.8    animation, action, comedy, drama, fantasy
+NCIS                                     2003   TV-14      20.0     7.8    crime, action, thriller, drama, comedy
 
 
 Top 10 Movies by IMDB Score:
 
+Title                                    Year   Rating     Runtime  Score  Genres
+Major                                    2022              149      9.1    action, drama
+C/o Kancharapalem                        2018   PG         152      8.9    drama
+David Attenborough: A Life on Our Planet 2020   PG         83       8.9    documentation
+Forrest Gump                             1994   PG-13      142      8.8    drama, romance
+Inception                                2010   PG-13      148      8.8    action, scifi, music, thriller
+GoodFellas                               1990   R          145      8.7    drama, crime
+Chhota Bheem & Krishna in Mayanagari     2011   G          66       8.7    animation, action, fantasy
+Bo Burnham: Inside                       2021   R          87       8.7    comedy, drama, music, reality
+Se7en                                    1995   R          127      8.6    crime, thriller, drama
+Chhota Bheem and the ShiNobi Secret      2013   G          63       8.6    animation
